@@ -1,1 +1,1 @@
-do npm install after downloading to run locally
+do npm install to download the node modules
